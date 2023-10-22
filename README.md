@@ -1,8 +1,8 @@
-#Prerequisites
+## Prerequisites
 1. Java17 is installed 
 2. Docker is installed
 
-#Running the application locally
+## Running the application locally
 To run the application:
 
 1. Clone the repo into a folder, lets call the folder `$PROJECT`
