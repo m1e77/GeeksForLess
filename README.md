@@ -7,7 +7,7 @@ To run the application:
 
 1. Clone the repo into a folder, lets call the folder `$PROJECT`
 2. `cd` to the `$PROJECT` folder
-3. run `./gradlew runDocker` from the `$PROJECT` folder, or run `runDocker` Gradle task from your IDE. 
+3. Run `./gradlew runDocker` from the `$PROJECT` folder, or run `runDocker` Gradle task from your IDE. 
 This will build docker image and start new docker container 
 based on the image with application running
 4. Use collection from `$PROJECT/postman` to interact with the application
