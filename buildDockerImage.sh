@@ -1,0 +1,1 @@
+docker build --build-arg JAR_FILE=$1-$2.jar -t $1:$2 .
